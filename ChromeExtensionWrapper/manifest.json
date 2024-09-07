@@ -1,0 +1,10 @@
+{
+    "manifest_version": 1,
+    "name": "Testing",
+    "version": "1.0",
+    "description": "First Iteration of the testing extension",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
